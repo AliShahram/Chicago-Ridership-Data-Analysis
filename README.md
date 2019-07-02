@@ -6,7 +6,7 @@ This program takes the Chicago bus ridership data from api endpoint, loads it to
 visualizes the data using SQL aggregates. The application uses Dash by plotly, it is a python framework
 that uses HTML, CSS and React.js to generate the visualizations.
 
-The program helps analyze ridership per routes, and bus stops and route efficiency among everything else.
+The program helps analyze ridership per routes and bus stops, and route efficiency among everything else.
 
 
 
