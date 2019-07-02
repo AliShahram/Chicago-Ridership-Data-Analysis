@@ -8,6 +8,8 @@ that uses HTML, CSS and React.js to generate the visualizations.
 
 The program helps analyze ridership per routes and bus stops, and route efficiency among everything else.
 
+Data source: https://data.cityofchicago.org/Transportation/CTA-Ridership-Avg-Weekday-Bus-Stop-Boardings-in-Oc/mq3i-nnqe
+
 
 
 
