@@ -1,5 +1,5 @@
 
-CTA Ridership Data Analysis
+# CTA Ridership Data Analysis
 Author: Ali Shahram Musavi
 
 This program takes the Chicago bus ridership data from api endpoint, loads it to a Postgres table and
@@ -11,7 +11,7 @@ The program helps analyze ridership per routes, and bus stops and route efficien
 
 
 
-Dependencies:
+## Dependencies:
   - Dash by Plotly
   - Pandas
   - Plotly
@@ -21,9 +21,9 @@ Dependencies:
 
 
 
-In order to run the program execute the files in the following order:
+## In order to run the program execute the files in the following order:
 
-  --> loader.py
+  *  loader.py
       - Creates a connection to local Postgres Database
       - Creates a table called CTA
       - Gets the data from API endpoint and loads to the db table
