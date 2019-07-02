@@ -1,5 +1,5 @@
 
-CTA Ridership Data Analytics
+CTA Ridership Data Analysis
 Author: Ali Shahram Musavi
 
 This program takes the Chicago bus ridership data from api endpoint, loads it to a Postgres table and
